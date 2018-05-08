@@ -1,0 +1,22 @@
+body{
+    background-image: url(http://jonvilma.com/images/the-walk-joseph-gordon-levitt.jpg);
+    background-size: fill;
+}
+
+.contenedor{
+    width: 400px;
+    margin: 20vmin auto;
+}
+
+.formatoCaja{
+    background-color: rgba(250, 249, 249, 0.3);
+    padding: 50px;
+}
+
+.form-control{
+    margin: 30px auto;
+}
+
+.form-signin-heading{
+    color: rgb(35, 85, 150);
+}
