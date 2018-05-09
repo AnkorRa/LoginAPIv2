@@ -1,26 +1,57 @@
 body{
-    background: url(http://jonvilma.com/images/the-walk-joseph-gordon-levitt.jpg) no-repeat center center fixed;
+    background: url(http://travelhdwallpapers.com/wp-content/uploads/2017/03/Chicago-Wallpaper-3.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font:400 16px/32px 'Open Sans',sans-serif;
+
       
 }
 
-.contenedor{
-    width: 400px;
-    margin: 20vmin auto;
+.fa{
+    display: inline-block;
 }
 
 .formatoCaja{
-    background-color: rgba(250, 249, 249, 0.3); 
+
+	max-width:425px;
+	min-height:670px;
+	position:relative;
+    margin: 15vmin auto;
+    box-shadow: 10px 10px 15px  rgba(0,0,0,0.4);
+	-moz-box-shadow: 10px 10px 15px  rgba(0,0,0,0.4);
+	-webkit-box-shadow: 10px 10px 15px  rgba(0,0,0,0.4);
+    -o-box-shadow: 10px 10px 15px  rgba(0,0,0,0.4);
+    border-radius: 25px;
+    background: rgba(11, 35, 94, 0.5); 
     padding: 50px;
+    
 }
 
 .form-control{
+          
+	color:#fff;
+    display:block;
+    
+}
+
+.form-control{
+    width: 100%;
+    border: none;
     margin: 30px auto;
+    border-radius:25px;
+    font-size: 16px;
+    text-transform:uppercase;
+    background-color:rgba(255,255,255,.3);
+    
 }
 
 .form-signin-heading{
-    color: rgb(35, 85, 150);
+    color:white;
+    font-size: 32px;
+}
+
+.btn{
+    border-radius:25px;
 }
